@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bargain_db/static/css/main.adb4f179.css",
-    "main.js": "/bargain_db/static/js/main.c401102b.js",
+    "main.js": "/bargain_db/static/js/main.2b2b16bc.js",
     "static/media/banner3.jpg": "/bargain_db/static/media/banner3.9ab05bf3a5d68e110438.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/lehanga.jpeg": "/bargain_db/static/media/lehanga.f0fcc11312e0773bce7c.jpeg",
@@ -28,10 +28,10 @@
     "static/media/kids11.avif": "/bargain_db/static/media/kids11.8f11585b3d847a1e1523.avif",
     "index.html": "/bargain_db/index.html",
     "main.adb4f179.css.map": "/bargain_db/static/css/main.adb4f179.css.map",
-    "main.c401102b.js.map": "/bargain_db/static/js/main.c401102b.js.map"
+    "main.2b2b16bc.js.map": "/bargain_db/static/js/main.2b2b16bc.js.map"
   },
   "entrypoints": [
     "static/css/main.adb4f179.css",
-    "static/js/main.c401102b.js"
+    "static/js/main.2b2b16bc.js"
   ]
 }
