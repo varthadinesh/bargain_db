@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/bargain_db/static/css/main.393b271a.css",
-    "main.js": "/bargain_db/static/js/main.37a3f0d1.js",
+    "main.js": "/bargain_db/static/js/main.1435faef.js",
     "static/media/young-woman-with-shopping-bags-beautiful-dress-hat.jpg": "/bargain_db/static/media/young-woman-with-shopping-bags-beautiful-dress-hat.99977eeb6e01e3c87b09.jpg",
     "static/media/banner3.jpg": "/bargain_db/static/media/banner3.9ab05bf3a5d68e110438.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/lehanga.jpeg": "/bargain_db/static/media/lehanga.f0fcc11312e0773bce7c.jpeg",
-    "static/media/saree-banner.webp": "/bargain_db/static/media/saree-banner.ebac1717a96282024ee4.webp",
     "static/media/banner4.jpeg": "/bargain_db/static/media/banner4.6e4044187a4473fb535a.jpeg",
     "static/media/fontawesome-webfont.eot": "/bargain_db/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fashion-model-kids.jpg": "/bargain_db/static/media/fashion-model-kids.bd2dce51d4006b6d83a9.jpg",
     "static/media/paypal.webp": "/bargain_db/static/media/paypal.045797956258fb2c8e42.webp",
+    "static/media/test3.jpg": "/bargain_db/static/media/test3.1c9079c3fc30513e2042.jpg",
     "static/media/sarees.webp": "/bargain_db/static/media/sarees.cdf72d2c5871304b222d.webp",
     "static/media/jewelry.jpg": "/bargain_db/static/media/jewelry.65baa32bbf6fb389b41e.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/bargain_db/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/highendcouture.jpg": "/bargain_db/static/media/highendcouture.11eadfcb6cca3ff474b1.jpg",
     "static/media/boy.webp": "/bargain_db/static/media/boy.1d4d25e68a05a44d5e56.webp",
-    "static/media/mb-back.jfif": "/bargain_db/static/media/mb-back.e7d851ad0d38ac36cb53.jfif",
+    "static/media/kids-fashion.jpg": "/bargain_db/static/media/kids-fashion.08d5dcd5e2d7d7855c9c.jpg",
     "static/media/visa.webp": "/bargain_db/static/media/visa.c14406d4f1be3210aa89.webp",
     "static/media/dresses.webp": "/bargain_db/static/media/dresses.605d2d50fa2ad8f88293.webp",
     "static/media/books.avif": "/bargain_db/static/media/books.b441168e1e058d8bb055.avif",
@@ -31,10 +31,10 @@
     "static/media/revicons.woff": "/bargain_db/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bargain_db/index.html",
     "main.393b271a.css.map": "/bargain_db/static/css/main.393b271a.css.map",
-    "main.37a3f0d1.js.map": "/bargain_db/static/js/main.37a3f0d1.js.map"
+    "main.1435faef.js.map": "/bargain_db/static/js/main.1435faef.js.map"
   },
   "entrypoints": [
     "static/css/main.393b271a.css",
-    "static/js/main.37a3f0d1.js"
+    "static/js/main.1435faef.js"
   ]
 }
