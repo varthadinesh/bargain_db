@@ -111,7 +111,7 @@ export default function Productdetails(props) {
             <p className="text-success fs-4">
               <b>&#8377;{productdetails.price}.00</b>
             </p>
-            {admin === "admin" ? (
+            {admin !== "admin" ? (
               <>
                 <div className="d-flex">
                   <b> QTY </b>: &nbsp;
