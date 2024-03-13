@@ -44,7 +44,7 @@ import Addnewproduct from "./components/sellerdashboard/Addnewproduct";
 import Shipments from "./components/sellerdashboard/Shipments";
 import Sellerorders from "./components/sellerdashboard/Sellerorders";
 import Sellerproducts from "./components/sellerdashboard/Sellerproducts";
-import Acceptproduct from "./components/Acceptproduct";
+import Acceptproduct from "./components/admindashboard/acceptproduct";
 import Checkout from "./components/Checkoutpage";
 
 function App() {
